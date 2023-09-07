@@ -1,0 +1,84 @@
+{
+  "questionData": [
+    {
+      "question": "Oppenheimer is known for the quote 'Death's destroyer.'",
+      "isTrue": false
+    },
+    {
+      "question": "The first atomic bomb test took place in 1945.",
+      "isTrue": true
+    },
+    {
+      "question": "The code name of the first bomb was 'Trinity.'",
+      "isTrue": true
+    },
+    {
+      "question": "Oppenheimer worked at Los Alamos laboratory.",
+      "isTrue": true
+    },
+    {
+      "question": "The fuel used in the Hiroshima bomb was Hydrogen-1.",
+      "isTrue": false
+    },
+    {
+      "question": "Oppenheimer's role was that of a lead physicist.",
+      "isTrue": true
+    },
+    {
+      "question": "The Soviet Union developed its first atomic bomb in 1945.",
+      "isTrue": false
+    },
+    {
+      "question": "The main motive behind the Manhattan Project was to explore science.",
+      "isTrue": false
+    },
+    {
+      "question": "Oppenheimer's early focus was on quantum physics.",
+      "isTrue": true
+    },
+    {
+      "question": "Oppenheimer received a Nobel Prize for his contributions.",
+      "isTrue": true
+    },
+    {
+      "question": "Oppenheimer was associated with the International Atomic Energy Agency (IAEA).",
+      "isTrue": true
+    },
+    {
+      "question": "Los Alamos, where Oppenheimer worked, is located in New Mexico.",
+      "isTrue": true
+    },
+    {
+      "question": "The bomb dropped on Nagasaki used the same fuel as the one on Hiroshima.",
+      "isTrue": false
+    },
+    {
+      "question": "Oppenheimer faced clearance issues due to his communist ties.",
+      "isTrue": true
+    },
+    {
+      "question": "Oppenheimer held the position of Professor of Physics at UC Berkeley.",
+      "isTrue": true
+    },
+    {
+      "question": "Enrico Fermi was one of Oppenheimer's collaborators in the atomic bomb project.",
+      "isTrue": true
+    },
+    {
+      "question": "The anti-nuclear agreement known as NPT stands for 'Non-Proliferation Treaty.'",
+      "isTrue": true
+    },
+    {
+      "question": "After WWII, Oppenheimer primarily focused on the development of new weapons.",
+      "isTrue": false
+    },
+    {
+      "question": "The biography 'American Prometheus' provides insights into Oppenheimer's life.",
+      "isTrue": true
+    },
+    {
+      "question": "During the McCarthy Era, Oppenheimer was cleared of any suspicions.",
+      "isTrue": false
+    }
+  ]
+}

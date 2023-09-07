@@ -1,0 +1,11 @@
+Library/*
+Library
+Temp/*
+Logs/*
+obj/*
+*_BackUpThisFolder_ButDontShipItWithYourGame
+*.aab
+*_mapping.txt
+Logs
+*.apk
+*.aab

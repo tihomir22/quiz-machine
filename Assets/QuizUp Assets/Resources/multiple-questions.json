@@ -1,0 +1,179 @@
+{
+  "questionData": [
+    {
+      "question": "What famous quote is attributed to J. Robert Oppenheimer after witnessing the first successful test of the atomic bomb?",
+      "possibleAnswers": [
+        "I am become Death, the destroyer of worlds.",
+        "Eureka! We have done it!",
+        "One small step for man, one giant leap for mankind.",
+        "The power of science knows no bounds."
+      ],
+      "rightAnswer": 0
+    },
+    {
+      "question": "In which year was the first successful test of an atomic bomb conducted as part of the Manhattan Project?",
+      "possibleAnswers": ["1942", "1945", "1950", "1939"],
+      "rightAnswer": 1
+    },
+    {
+      "question": "What was the code name given to the first atomic bomb tested in New Mexico during the Manhattan Project?",
+      "possibleAnswers": ["Fat Man", "Little Boy", "Trinity", "Alpha Omega"],
+      "rightAnswer": 2
+    },
+    {
+      "question": "J. Robert Oppenheimer served as the scientific director of which U.S. laboratory during the Manhattan Project?",
+      "possibleAnswers": [
+        "Los Alamos Laboratory",
+        "Area 51",
+        "Oak Ridge Laboratory",
+        "Brookhaven National Laboratory"
+      ],
+      "rightAnswer": 0
+    },
+    {
+      "question": "Which element was used as the fuel for the atomic bomb dropped on Hiroshima?",
+      "possibleAnswers": [
+        "Uranium-235",
+        "Plutonium-239",
+        "Thorium-232",
+        "Hydrogen-1"
+      ],
+      "rightAnswer": 0
+    },
+    {
+      "question": "What role did J. Robert Oppenheimer play in the development of the atomic bomb?",
+      "possibleAnswers": [
+        "Lead Physicist",
+        "Chief Engineer",
+        "Head of Security",
+        "Medical Officer"
+      ],
+      "rightAnswer": 0
+    },
+    {
+      "question": "The Soviet Union successfully tested its first atomic bomb in which year, marking the beginning of the nuclear arms race?",
+      "possibleAnswers": ["1955", "1949", "1962", "1945"],
+      "rightAnswer": 1
+    },
+    {
+      "question": "What was the main motivation behind the Manhattan Project's efforts to develop the atomic bomb?",
+      "possibleAnswers": [
+        "To create a new source of clean energy",
+        "To deter potential invaders",
+        "To end World War II",
+        "To explore the limits of scientific knowledge"
+      ],
+      "rightAnswer": 2
+    },
+    {
+      "question": "Oppenheimer's early research focused on which field of physics?",
+      "possibleAnswers": [
+        "Quantum Mechanics",
+        "Thermodynamics",
+        "Relativity",
+        "Optics"
+      ],
+      "rightAnswer": 0
+    },
+    {
+      "question": "Which prestigious award did Oppenheimer receive for his contributions to theoretical physics?",
+      "possibleAnswers": [
+        "Nobel Prize",
+        "Pulitzer Prize",
+        "Academy Award",
+        "Grammy Award"
+      ],
+      "rightAnswer": 0
+    },
+    {
+      "question": "Which international research organization did Oppenheimer help establish after World War II?",
+      "possibleAnswers": [
+        "United Nations",
+        "International Atomic Energy Agency (IAEA)",
+        "World Health Organization",
+        "Greenpeace"
+      ],
+      "rightAnswer": 1
+    },
+    {
+      "question": "In which U.S. state is the Los Alamos National Laboratory located?",
+      "possibleAnswers": ["New Mexico", "Nevada", "Arizona", "California"],
+      "rightAnswer": 0
+    },
+    {
+      "question": "What was the target city of the atomic bomb dropped on Nagasaki?",
+      "possibleAnswers": ["Tokyo", "Kyoto", "Hiroshima", "Nagasaki"],
+      "rightAnswer": 3
+    },
+    {
+      "question": "What was the \"Oppenheimer security clearance\" controversy?",
+      "possibleAnswers": [
+        "A dispute over intellectual property rights",
+        "A debate about scientific ethics",
+        "Concerns about Oppenheimer's political affiliations",
+        "A disagreement with fellow scientists"
+      ],
+      "rightAnswer": 2
+    },
+    {
+      "question": "What academic position did Oppenheimer hold at the University of California, Berkeley?",
+      "possibleAnswers": [
+        "Dean of the Physics Department",
+        "President of the University",
+        "Chancellor",
+        "Professor of Physics"
+      ],
+      "rightAnswer": 3
+    },
+    {
+      "question": "Which influential physicist collaborated closely with Oppenheimer on the development of the atomic bomb?",
+      "possibleAnswers": [
+        "Albert Einstein",
+        "Werner Heisenberg",
+        "Enrico Fermi",
+        "Niels Bohr"
+      ],
+      "rightAnswer": 2
+    },
+    {
+      "question": "What significant international agreement aimed to limit the spread of nuclear weapons and technology?",
+      "possibleAnswers": [
+        "Geneva Protocol",
+        "Non-Proliferation Treaty (NPT)",
+        "Paris Agreement",
+        "Kyoto Protocol"
+      ],
+      "rightAnswer": 1
+    },
+    {
+      "question": "After the end of World War II, what role did Oppenheimer play in shaping U.S. nuclear policy?",
+      "possibleAnswers": [
+        "He advocated for a massive increase in nuclear testing.",
+        "He called for the immediate disarmament of all nuclear powers.",
+        "He urged for the peaceful use of atomic energy.",
+        "He proposed the development of even more destructive weapons."
+      ],
+      "rightAnswer": 2
+    },
+    {
+      "question": "What is the name of the biography written about J. Robert Oppenheimer by Kai Bird and Martin J. Sherwin?",
+      "possibleAnswers": [
+        "Atomic Ambitions",
+        "The Manhattan Project Chronicles",
+        "American Prometheus",
+        "The Oppenheimer Enigma"
+      ],
+      "rightAnswer": 2
+    },
+    {
+      "question": "What role did Oppenheimer play during the \"McCarthy Era\" in the United States?",
+      "possibleAnswers": [
+        "He led investigations against suspected communist spies.",
+        "He testified against fellow scientists as a witness for the government.",
+        "He was accused of having communist sympathies and faced a security clearance hearing.",
+        "He was appointed as the head of a government intelligence agency."
+      ],
+      "rightAnswer": 2
+    }
+  ]
+}

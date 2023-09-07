@@ -1,0 +1,6 @@
+NOTE:
+
+When using any of the prefabs in the scene, specially
+Camera.prefab and ResponsiveUI.prefab, NEVER save the
+changes in prefabs as it might take affect in other
+scenes
